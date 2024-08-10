@@ -1,3 +1,3 @@
 <div>
-    {{-- Be like water. --}}
+    About Be like water.
 </div>
